@@ -1,0 +1,28 @@
+C:\Users\Jelle\AppData\Local\Temporary Projects\quicksort\bin\Debug\quicksort.exe
+C:\Users\Jelle\AppData\Local\Temporary Projects\quicksort\bin\Debug\quicksort.pdb
+C:\Users\Jelle\AppData\Local\Temporary Projects\quicksort\obj\x86\Debug\quicksort.exe
+C:\Users\Jelle\AppData\Local\Temporary Projects\quicksort\obj\x86\Debug\quicksort.pdb
+C:\Users\Jelle\documents\visual studio 2010\Projects\quicksort\quicksort\obj\x86\Debug\quicksort.exe
+C:\Users\Jelle\documents\visual studio 2010\Projects\quicksort\quicksort\obj\x86\Debug\quicksort.pdb
+C:\Users\Jelle\documents\visual studio 2010\Projects\quicksort\quicksort\bin\Debug\quicksort.exe
+C:\Users\Jelle\documents\visual studio 2010\Projects\quicksort\quicksort\bin\Debug\quicksort.pdb
+H:\quicksort-console\quicksort\obj\x86\Debug\quicksort.exe
+H:\quicksort-console\quicksort\obj\x86\Debug\quicksort.pdb
+H:\quicksort-console\quicksort\bin\Debug\quicksort.exe
+H:\quicksort-console\quicksort\bin\Debug\quicksort.pdb
+H:\quicksort-console\quicksort\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\quicksort-console\quicksort\obj\x86\Debug\quicksort.exe
+D:\quicksort-console\quicksort\obj\x86\Debug\quicksort.pdb
+E:\quicksort-console\quicksort\obj\x86\Debug\quicksort.exe
+E:\quicksort-console\quicksort\obj\x86\Debug\quicksort.pdb
+E:\quicksort-console\quicksort\bin\Debug\quicksort.exe
+E:\quicksort-console\quicksort\bin\Debug\quicksort.pdb
+E:\quicksort-console\quicksort\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jelle\Desktop\quicksort-console\quicksort\obj\x86\Debug\quicksort.exe
+C:\Users\Jelle\Desktop\quicksort-console\quicksort\obj\x86\Debug\quicksort.pdb
+C:\Users\Jelle\Desktop\quicksort-console\quicksort\bin\Debug\quicksort.exe
+C:\Users\Jelle\Desktop\quicksort-console\quicksort\bin\Debug\quicksort.pdb
+C:\Users\Jelle\Documents\Visual Studio 2010\Projects\quicksort-console\quicksort\obj\x86\Debug\quicksort.exe
+C:\Users\Jelle\Documents\Visual Studio 2010\Projects\quicksort-console\quicksort\obj\x86\Debug\quicksort.pdb
+C:\Users\Jelle\Documents\Visual Studio 2010\Projects\quicksort-console\quicksort\bin\Debug\quicksort.exe
+C:\Users\Jelle\Documents\Visual Studio 2010\Projects\quicksort-console\quicksort\bin\Debug\quicksort.pdb
